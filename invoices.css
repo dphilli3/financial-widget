@@ -1,0 +1,14 @@
+.invoices-widget {
+    background-color: beige;
+    padding: 20px;
+    margin: 10px;
+}
+
+.invoices-widget h2 {
+    font-size: 18px;
+
+}
+
+table {
+    width: 100%;
+}
